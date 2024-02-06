@@ -23,4 +23,4 @@ spring:
               - profile
 jwt:
   issuer: ajufresh@gmail.com
-  secret_key: test_key
+  secret_key: test_key_2
